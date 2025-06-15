@@ -38,7 +38,7 @@ To provide a clear and interactive visual representation of Walmart's retail sal
 - **Power BI Desktop**
 - Power Query (Data Transformation)
 - DAX (Data Analysis Expressions)
-- CSV/Excel Dataset (Not included due to confidentiality)
+- CSV/Excel Dataset 
 
 ---
 
