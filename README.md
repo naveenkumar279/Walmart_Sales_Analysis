@@ -42,25 +42,10 @@ To provide a clear and interactive visual representation of Walmart's retail sal
 
 ---
 
-## 🖼️ Sample Dashboard
-
-![Walmart Sales Dashboard](Walmart_Dashboard(Home).png)
-
----
-
 ## ⚠️ Disclaimer
 
 - The dataset used in this dashboard is sample data and is not official Walmart data.
 - This project is for educational and portfolio purposes only.
-
----
-
-## 📂 Files Included
-
-| File Name                        | Description                          |
-|---------------------------------|--------------------------------------|
-| `Walmart_Sales_Analysis.pbix`     | Power BI Dashboard file (Main Project) |
-| `Walmart_Dashboard(Home).png`     | Screenshot preview of the dashboard |
 
 ---
 
