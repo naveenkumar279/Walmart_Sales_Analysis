@@ -50,7 +50,7 @@ To provide a clear and interactive visual representation of Walmart's retail sal
 ---
 ## 🔗 Author
 
-**Your Name**  
-[Your GitHub Profile](https://github.com/naveenkumar279)  
+**NAVEEN KUMAR S**  
+[Contact Me](https://github.com/naveenkumar279)  
 
 
