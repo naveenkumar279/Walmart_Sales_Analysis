@@ -48,7 +48,6 @@ To provide a clear and interactive visual representation of Walmart's retail sal
 - This project is for educational and portfolio purposes only.
 
 ---
-
 ## 🔗 Author
 
 **Your Name**  
